@@ -1,4 +1,5 @@
 # Superior-Blood-Cell-Classification-for-Cancer-Detection-Using-CNN
+This project aims to develop a deep learning model for blood cancer detection using Convolutional Neural Networks (CNNs).
 
 # Dataset
 The dataset used for training consists of 17,092 images of normal blood cells. These images were collected from individuals without any hematologic or oncologic diseases, ensuring a diverse and representative dataset for training the model. Link : https://www.kaggle.com/datasets/mahdinavaei/blood-cancer
